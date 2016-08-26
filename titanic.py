@@ -42,7 +42,3 @@ WomanName = MrsName.append(MissName)
 print(WomanName.value_counts().head(1))
 
 
-
-
-
-
